@@ -1,0 +1,68 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+/springdemo/HELP.md
+/springdemo/target/
+/springdemo/!.mvn/wrapper/maven-wrapper.jar
+/springdemo/!**/src/main/**/target/
+/springdemo/!**/src/test/**/target/
+
+### STS ###
+/springdemo/.apt_generated
+/springdemo/.classpath
+/springdemo/.factorypath
+/springdemo/.project
+/springdemo/.settings
+/springdemo/.springBeans
+/springdemo/.sts4-cache
+
+### IntelliJ IDEA ###
+/springdemo/.idea
+/springdemo/*.iws
+/springdemo/*.iml
+/springdemo/*.ipr
+
+### NetBeans ###
+/springdemo/nbproject/private/
+/springdemo/nbbuild/
+/springdemo/dist/
+/springdemo/nbdist/
+/springdemo/.nb-gradle/
+/springdemo/build/
+/springdemo/!**/src/main/**/build/
+/springdemo/!**/src/test/**/build/
+
+### VS Code ###
+/springdemo/.vscode/
+
