@@ -10,11 +10,13 @@ public class EmailProperties {
 
     //@Value("${email.user}")
     //发件人邮箱
-    public String user = "1138596129@qq.com";
+    @Value("${email.user}")
+    public String user;
 
     //@Value("${email.code}")
     //发件人邮箱授权码
-    public String code = "";
+    @Value("${email.code}")
+    public String code;
 
     //@Value("${email.host}")
     //发件人邮箱对应的服务器域名,如果是163邮箱:smtp.163.com   qq邮箱: smtp.qq.com

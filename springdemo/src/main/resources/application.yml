@@ -1,0 +1,10 @@
+email:
+  user: 1138596129@qq.com
+  code:
+  host: smtp.qq.com
+  auth: true
+
+hobbies:
+  - 打篮球
+  - 打游戏
+  - 玩玩
