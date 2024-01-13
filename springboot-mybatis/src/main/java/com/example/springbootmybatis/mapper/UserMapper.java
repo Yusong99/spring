@@ -3,6 +3,7 @@ package com.example.springbootmybatis.mapper;
 import com.example.springbootmybatis.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
+import org.springframework.stereotype.Repository;
 
 @Mapper
 public interface UserMapper {
